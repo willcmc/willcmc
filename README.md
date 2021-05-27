@@ -1,8 +1,8 @@
-### Hello there! William here 👋
+### Hello there! I am William 👋
 
 <!--[![Website](https://img.shields.io/website?label=william-retnaraj.com&style=for-the-badge&url=https%3A%2F%2Fwilliam-retnaraj.com)](https://codestackr.com)-->
 
-## I'm an Embedded Robotics Enthusiast + Aerospace Controls Researcher + Seasoned Musician!
+## Embedded Robotics Enthusiast + Controls Researcher + Seasoned Musician!
 
 - 🌱 I’m currently learning about ROS and ROS2 in a lot more depth
 - 🌿 Working on my STM32F030R8T6!
