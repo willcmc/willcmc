@@ -10,7 +10,7 @@
 - 📚 Developing a Sliding Mode Controller
 - ✈️ Getting a degree in Aerospace Engineering
 - 🥅 2021 Goals: Get involved in Open Robotics and help with micro-ROS
-- ⚡ Fun fact: I love to read and play my guitar and keyboard
+- ⚡ Fun fact: I love playing my guitar and keyboard
 
 ### Languages and Tools:
 
