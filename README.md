@@ -4,11 +4,10 @@
 
 ## Embedded Robotics Enthusiast + Controls Researcher + Seasoned Musician!
 
-- 🌱 I’m currently learning about ROS and ROS2 in a lot more depth
-- 🌿 Working on my STM32F030R8T6!
-- ❤️ Flight Mechanics, Avionics, and Controls is my thing
-- 📚 Developing a Sliding Mode Controller
-- ✈️ Getting a degree in Aerospace Engineering
+- 🦾 ROS and ROS2 
+- 🌿 Working on my STM32F030!
+- ❤️ Flight Mechanics, Avionics, and Controls
+- ✈️ Aerospace Engineering Undergrad
 - 🥅 2021 Goals: Get involved in Open Robotics and help with micro-ROS
 - ⚡ Fun fact: I love playing my guitar and keyboard
 
