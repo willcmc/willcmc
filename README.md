@@ -1,14 +1,11 @@
-### ${PWD}: /home/william/about.me
+### `PWD` - /home/willcmc/about.me
 
-<!--[![Website](https://img.shields.io/website?label=william-retnaraj.com&style=for-the-badge&url=https%3A%2F%2Fwilliam-retnaraj.com)](https://codestackr.com)-->
+## Control Engineer, Aviation and Spaceflight Enthusiast, Musician
 
-## Embedded Robotics Enthusiast + Controls Researcher + Seasoned Musician!
-
-- 👷‍♂️ Flight Mechanics, Controls, and Jet Propulsion Engineer
-- ♟️ ROS and ROS2 
-- 🌿 Ever promoting and endlessly using: GNU/Linux, AVR, STM32
-- 🥅 2021 Goals: Get involved in Open Robotics and help with micro-ROS
-- ⚡ Fun fact: Love playing the guitar (😅) and keyboard (🦾), writing utility programs, and writing sci-fi.
+- Flight Performance and Dynamics, Aircraft Control, Space Dynamics, Optimization, Embedded Systems Design
+- Experience with robust and optimal control, insight into real systems and system identification
+- Ever promoting and endlessly using: GNU/[Linux](https://www.linux.org/), [AVR](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus), [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html), [ROS](https://www.ros.org/), [Eagle](https://www.autodesk.com/products/eagle/overview), [Obsidian](https://obsidian.md/), [VSCode](https://code.visualstudio.com/)
+- Keyboardist, [composer](https://soundcloud.com/willcmc), and (unpublished) sci-fi writer.
 
 ### Languages and Tools:
 
